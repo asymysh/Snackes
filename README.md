@@ -1,2 +1,2 @@
 # Snackes
-Attempt at making Snakes game using Lists in Python
+Snakes game using only array Lists in Python ( originally built for C, but adapted to Python for college course requirements )
